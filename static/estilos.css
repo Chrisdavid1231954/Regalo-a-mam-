@@ -33,7 +33,7 @@ body div h1{
 .fotiti{
     border-radius: 50%;
     border: 2px solid black;
-    
+    width: 50%;
     box-shadow: 10px 10px 10px black;
     margin-bottom: 20px;
 }

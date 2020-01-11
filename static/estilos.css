@@ -1,0 +1,48 @@
+*{
+    margin: 0em;
+}
+body{
+background: #008080;
+
+}
+.capsula{
+    background: #F7347A;
+    border: 1px solid black;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10px;
+    width: 80%;
+    border-radius: 10%;
+    padding: 10px;
+
+}
+
+
+body div h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+.Foto{
+    margin-top: 5px;
+    text-align: center;
+    
+
+}
+
+.fotiti{
+    border-radius: 50%;
+    border: 2px solid black;
+    
+    box-shadow: 10px 10px 10px black;
+    margin-bottom: 20px;
+}
+
+.desc{
+    margin: 5%;
+    padding: 5px;
+    border: 1px solid black;
+    background: #FFE4E1;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
